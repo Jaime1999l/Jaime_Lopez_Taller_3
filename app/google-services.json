@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397117860623",
+    "project_id": "taller-3-eventos",
+    "storage_bucket": "taller-3-eventos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397117860623:android:f83cfbc387d5ef097b2c7a",
+        "android_client_info": {
+          "package_name": "com.example.Jaime.lopez.taller_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2w9mz3SAwK4hOPDuEbymywNexw6ugOUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397117860623:android:10aa73904a25ae287b2c7a",
+        "android_client_info": {
+          "package_name": "com.example.jaime_lopez_taller_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2w9mz3SAwK4hOPDuEbymywNexw6ugOUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
