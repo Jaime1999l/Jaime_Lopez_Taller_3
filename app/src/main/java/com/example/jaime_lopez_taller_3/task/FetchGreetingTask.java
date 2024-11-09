@@ -36,7 +36,7 @@ public class FetchGreetingTask extends AsyncTask<Void, Void, String> {
             Thread.sleep(2000);
 
             // Simulacion de una respuesta JSON desde el servidor
-            String jsonResponse = "{ \"greeting\": \"TALLER 2 - MENU\" }";
+            String jsonResponse = "{ \"greeting\": \"TALLER 3 - MENU\" }";
             JSONObject jsonObject = new JSONObject(jsonResponse);
 
             return jsonObject.getString("greeting");
